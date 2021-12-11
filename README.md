@@ -64,6 +64,7 @@ rails s
 ```sh
 ### Undo migration
 rake db:migrate VERSION=0
+```
 
 👤 **Aganze Mataba Henri**
 
